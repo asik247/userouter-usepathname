@@ -5,7 +5,7 @@ const RootPage = () => {
   return (
     <div>
       {/* <h2>Welcome To Root Page</h2> */}
-      {/* Banner Added */}
+      {/* Banner Addeds */}
       <Banner></Banner>
     </div>
   );
