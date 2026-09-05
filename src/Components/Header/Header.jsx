@@ -25,6 +25,7 @@ const Header = () => {
                     <ActiveLinks href="/people">Peoples</ActiveLinks>
                     <ActiveLinks href="/projects">Projects</ActiveLinks>
                     <ActiveLinks href="/contact">Contact</ActiveLinks>
+                    <ActiveLinks href="/dashboard">DashBoard</ActiveLinks>
                 </nav>
 
             </div>
