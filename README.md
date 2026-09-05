@@ -1,47 +1,71 @@
-# 🚀 DevPeoples - Modern Next.js Community Directory
-
-A modern, responsive, and blazing-fast web application built with **Next.js (App Router)** and **Tailwind CSS**. This project showcases dynamic routing, clean UI components, and person profiles with individual detail views.
-
----
-
-## 📸 Preview
+# 💻 DevPeoples - Developer Community & Talent Directory
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&auto=format&fit=crop&q=80" alt="DevPeoples Preview Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)
+
+<p align="center">
+  A modern, high-performance community directory for software engineers, frontend ninjas, backend architects, and DevOps specialists.
+</p>
+
 </div>
 
 ---
 
-## 🌟 Features
+## 📸 Project Showcase
 
-- **⚡ Next.js App Router**: Optimized folder-based dynamic routing (`app/peopleDetails/[id]`).
-- **🎨 Modern Tailwind CSS UI**: Fully responsive cards, frosted glass navbar, and matching layouts.
-- **🧭 Dynamic Active Links**: Custom `ActiveLinks` component that auto-highlights based on the current URL.
-- **👥 People Directory**: Itemized person cards featuring hobbies, profiles, and city tags.
-- **📄 Single Profile View**: Dynamic user profile details page driven by server params.
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&auto=format&fit=crop&q=80" alt="DevPeoples Developer Team Workspace" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin-bottom: 24px;" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What is DevPeoples?
 
-<div align="center">
+**DevPeoples** হলো টেক প্রফেশনাল ও ডেভেলপারদের একটি সেন্ট্রালাইজড প্রোফাইল ডিরেক্টরি। এখানে বিভিন্ন ডোমেইনের ডেভেলপারদের (যেমন: *Frontend, Backend, DevOps, Cyber Security, UI/UX*) স্কিল, হবি ও লোকেশন এক নজরে দেখা যায় এবং ডাইনামিক রাউটিংয়ের মাধ্যমে তাদের পূর্ণাঙ্গ প্রোফাইল ডিটেইলস এক্সপ্লোর করা যায়।
 
-| Technology | Role |
-|---|---|
-| **Next.js** | Full-Stack React Framework |
-| **React** | Component-driven UI library |
-| **Tailwind CSS** | Utility-first styling |
-| **Unsplash** | Mock profile image assets |
+---
 
-</div>
+## 🌟 Key Features
+
+- 👨‍💻 **Developer Hub**: সফটওয়্যার ইঞ্জিনিয়ারদের রোল, স্কিলসেট, বয়স ও লোকেশন অনুযায়ী কার্ড ভিউ।
+- ⚡ **Next.js App Router Dynamic Routing**: ফোল্ডার বেসড `app/peopleDetails/[id]` আর্কিটেকচার দিয়ে রিয়েল-টাইমে সিঙ্গেল ডেভেলপার ডাটা ফেচিং।
+- 🎨 **Modern Clean UI**: স্লেট ও ইন্ডিগো থিমের রেসপন্সিভ কার্ড, লাইভ স্ট্যাটাস ব্যাজ এবং গ্লাস-মরফিক হেডার।
+- 🔗 **Smart Active Navigation**: কাস্টম `ActiveLinks` কম্পোনেন্ট যা কারেন্ট রাউট ট্র্যাক করে ন্যাভবার হাইলাইট করে।
+- 🚀 **Developer Interests & Hobbies**: প্রতিটি ইঞ্জিনিয়ারের কোডিং ছাড়াও ব্যক্তিগত শখ ও অ্যাক্টিভিটি শোকেস।
+
+---
+
+## 👥 Featured Developer Profiles
+
+| Developer | Core Role | Location | Stack / Focus |
+|---|---|---|---|
+| **Ayesha Rahman** | Frontend Developer | Dhaka | React, Next.js, UI |
+| **Tanvir Ahmed** | UI/UX Designer | Chittagong | Figma, Design Systems |
+| **Farhan Kabir** | Backend Engineer | Rajshahi | Node.js, Databases, APIs |
+| **Shakil Hasan** | Mobile App Developer | Khulna | React Native, Mobile Apps |
+| **Rakibul Karim** | DevOps Engineer | Dhaka | Docker, CI/CD, Cloud |
+| **Zubair Mahmud** | Cybersecurity Analyst | Mymensingh | Network Security, CTF |
+
+---
+
+## 🛠️ Built With
+
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Library:** [React](https://react.dev/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Avatars & Assets:** [Unsplash](https://unsplash.com/)
 
 ---
 
 ## 🚀 Getting Started
 
-Follow these simple steps to run the project locally.
+লোকাল মেশিনে প্রজেক্টটি রান করার ধাপসমূহ:
 
-### 1. Clone the repository
+### ১. ক্লোন করুন:
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/your-username/devpeoples.git](https://github.com/your-username/devpeoples.git)
+cd devpeoples
