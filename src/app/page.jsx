@@ -1,4 +1,5 @@
 import Banner from '@/Components/Banner/Banner';
+import Peoples from '@/Components/PeopleInfo/Peoples';
 import React from 'react';
 
 const RootPage = () => {
@@ -7,6 +8,10 @@ const RootPage = () => {
       {/* <h2>Welcome To Root Page</h2> */}
       {/* Banner Addeds */}
       <Banner></Banner>
+      {/* pepoles info with card */}
+      <section className='my-5'>
+        <Peoples></Peoples>
+      </section>
     </div>
   );
 };
