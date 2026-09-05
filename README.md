@@ -18,8 +18,13 @@
 ## 📸 Project Showcase
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&auto=format&fit=crop&q=80" alt="DevPeoples Developer Team Workspace" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin-bottom: 24px;" />
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=1200&auto=format&fit=crop&q=80" alt="Developer Late Night Coding Workspace" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); margin-bottom: 24px;" />
 </div>
+
+> *যদি ইমেজটি তোর লোকাল `public/` ফোল্ডারে থাকে, তাহলে নিচের মতো করে লিংক করতে পারিস:*
+> ```html
+> <img src="/mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" alt="Developer Workspace" width="100%" />
+> ```
 
 ---
 
@@ -57,7 +62,7 @@
 * **Framework:** [Next.js](https://nextjs.org/) (App Router)
 * **Library:** [React](https://react.dev/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **Avatars & Assets:** [Unsplash](https://unsplash.com/)
+* **Photography:** [Mohammad Rahmani (Unsplash)](https://unsplash.com/@mohammadrahmani)
 
 ---
 
