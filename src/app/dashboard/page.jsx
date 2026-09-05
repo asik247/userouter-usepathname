@@ -144,7 +144,7 @@ const DashBoard = () => {
                     </div>
 
                     <Link
-                        href="/peoples"
+                        href="/people"
                         className="w-full block text-center mt-5 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-xs rounded-xl transition"
                     >
                         Explore All Profiles →
